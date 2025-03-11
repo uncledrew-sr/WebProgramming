@@ -17,7 +17,8 @@
         echo "<br>";
         
         $img_rabbit = "source/02/rabit.jpg";
-        echo "<img src = '$img_rabbit'>"
+        echo "<img src = '$img_rabbit'>";
+        echo "<img src = \"$img_rabbit\">";
     ?>
 </body>
 </html>
